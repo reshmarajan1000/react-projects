@@ -5,7 +5,9 @@ Step 1:
 
 Step2:
  > cd basic-react-bill-viewer-app
+ 
+ Step 3:
  > npm start
  
-Step3: In terminal enter the following command from the project folder
+Step4 :
  > Code .               
